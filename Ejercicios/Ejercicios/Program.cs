@@ -55,6 +55,10 @@ namespace Ejercicios
                     EJ8.Password ej8 = new EJ8.Password();
                     ej8.Main();
                     break;
+                case "9":
+                    EJ9.Electrodomestico ej9 = new EJ9.Electrodomestico();
+                    ej9.Main();
+                    break;
             }
         }
     }

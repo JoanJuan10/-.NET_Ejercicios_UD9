@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="EJ9\" />
     <Folder Include="EJ10\" />
   </ItemGroup>
 
