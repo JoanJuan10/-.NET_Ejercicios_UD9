@@ -59,6 +59,10 @@ namespace Ejercicios
                     EJ9.Electrodomestico ej9 = new EJ9.Electrodomestico();
                     ej9.Main();
                     break;
+                case "10":
+                    EJ10.Serie ej10 = new EJ10.Serie();
+                    ej10.Main();
+                    break;
             }
         }
     }
