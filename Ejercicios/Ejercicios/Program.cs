@@ -51,6 +51,10 @@ namespace Ejercicios
                 case "7":
                     Console.WriteLine("Lectura de Clase en código.");
                     break;
+                case "8":
+                    EJ8.Password ej8 = new EJ8.Password();
+                    ej8.Main();
+                    break;
             }
         }
     }

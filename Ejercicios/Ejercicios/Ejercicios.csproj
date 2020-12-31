@@ -8,7 +8,6 @@
   <ItemGroup>
     <Folder Include="EJ9\" />
     <Folder Include="EJ10\" />
-    <Folder Include="EJ8\" />
   </ItemGroup>
 
 </Project>
