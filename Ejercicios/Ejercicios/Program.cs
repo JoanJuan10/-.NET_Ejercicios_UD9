@@ -36,6 +36,10 @@ namespace Ejercicios
                     EJ3.Ejercicio3 ej3 = new EJ3.Ejercicio3();
                     ej3.Ejercicio();
                     break;
+                case "4":
+                    EJ4.PruebaPersona ej4 = new EJ4.PruebaPersona();
+                    ej4.Main();
+                    break;
             }
         }
     }
