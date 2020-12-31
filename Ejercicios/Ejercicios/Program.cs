@@ -48,6 +48,9 @@ namespace Ejercicios
                     EJ6.Coche ej6 = new EJ6.Coche();
                     ej6.Main();
                     break;
+                case "7":
+                    Console.WriteLine("Lectura de Clase en código.");
+                    break;
             }
         }
     }
