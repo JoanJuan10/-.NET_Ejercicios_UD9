@@ -44,6 +44,10 @@ namespace Ejercicios
                     EJ5.Libro ej5 = new EJ5.Libro();
                     ej5.Main();
                     break;
+                case "6":
+                    EJ6.Coche ej6 = new EJ6.Coche();
+                    ej6.Main();
+                    break;
             }
         }
     }
