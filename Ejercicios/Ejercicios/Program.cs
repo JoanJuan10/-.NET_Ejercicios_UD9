@@ -40,6 +40,10 @@ namespace Ejercicios
                     EJ4.PruebaPersona ej4 = new EJ4.PruebaPersona();
                     ej4.Main();
                     break;
+                case "5":
+                    EJ5.Libro ej5 = new EJ5.Libro();
+                    ej5.Main();
+                    break;
             }
         }
     }
